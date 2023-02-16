@@ -23,9 +23,7 @@ This will connect to the server and open a reverse shell on the remote machine. 
 - cmd {COMMAND}: Execute the specified command on the current client and display the output.
 
 Note that the cmd command is executed on the current client, so you must first switch to the desired client using the switch command.
-## License
 
-This project is licensed under the MIT License.
 ## Acknowledgments
 
 This project was inspired by various other reverse shell manager implementations. Special thanks to the following resources:
